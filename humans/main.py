@@ -10,5 +10,4 @@ Odamcha = Odam(input('ismni kiritung :'))
 
 Odamcha.metod()
 Odamcha.yugurish()
-
-
+print("salom dunyo ")
